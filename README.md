@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hi 👋, I'm Gerson Daniel</h1>
-<h3 align="center">A passionate Full Stack💻 Developer MERN from Colombia and Salesforce DevOps.</h3>
+<h3 align="center">Hello, I'm Gerson Daniel. I am a MERN Full Stack developer with expertise in MongoDB, Express, React, and Node. I have hands-on experience as a front-end developer, working on full-stack development, as well as implementing Salesforce DevOps solutions💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerson107&label=Profile%20views&color=0e75b6&style=flat" alt="gerson107" /> </p>
 
